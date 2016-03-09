@@ -1,0 +1,7 @@
+.x2 ._iuz {
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/put-reactions@2x.png") !important;
+}
+
+._iuz {
+  background-image:url("chrome-extension://__MSG_@@extension_id__/img/put-reactions.png") !important;
+}
